@@ -30,3 +30,7 @@ for the year 2024.
 # Next Steps
 
 - Conduct a forecast for iron and steel export revenue to China over the next year to ensure the potential for expanding the iron and steel export business to China.
+
+# Forecasting Result
+![Forecasting](https://github.com/ajsn-gde/Indonesia-s-Iron-Steel-Export-Trends-Analysis-Prediction/raw/main/historicaltrend.png)
+-Based on the export revenue forecast for the next 12 months, the trend tends to decline and only started to surge again since August. Therefore, it can be said that February 2025 is not the right time to venture into the iron and steel export business. However, it is worth trying from August 2025 to December 2025.
