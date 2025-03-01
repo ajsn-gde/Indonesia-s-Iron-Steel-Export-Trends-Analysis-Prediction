@@ -34,3 +34,5 @@ for the year 2024.
 # Forecasting Result
 ![Forecasting](https://github.com/ajsn-gde/Indonesia-s-Iron-Steel-Export-Trends-Analysis-Prediction/raw/main/historicaltrend.png)
 -Based on the export revenue forecast for the next 12 months, the trend tends to decline and only started to surge again since August. Therefore, it can be said that February 2025 is not the right time to venture into the iron and steel export business. However, it is worth trying from August 2025 to December 2025.
+
+Data source: BPS Indonesia 2014 - 2024 with HS Code 71-83
